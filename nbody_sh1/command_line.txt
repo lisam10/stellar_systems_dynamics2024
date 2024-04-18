@@ -1,0 +1,15 @@
+
+
+nbody_sh1 -d 0.03 -e 0.0 -o 0.0 -t 0 < input.txt > output.txt
+
+nbody_sh1 -d 0.03 -e 0.0 -o 0.0 -t 0 < input.txt > output.txt
+
+nbody_sh1 -d 0.03 -e 0.15811388300841897 -o 0.00474341649025257 -t 0.47434164902525694 < input.txt > output.txt
+
+nbody_sh1 -d 0.03 -e 0.07453559924999299 -o 0.00223606797749979 -t 0.223606797749979 < input.txt > output.txt
+
+nbody_sh1 -d 0.03 -e 0.05000000000000001 -o 0.0015000000000000002 -t 0.15000000000000002 < input.txt > output.txt
+
+nbody_sh1 -d 0.03 -e 0.0158113883008419 -o 0.00047434164902525696 -t 0.047434164902525694 < input.txt > output.txt
+
+nbody_sh1 -d 0.03 -e 0.15811388300841897 -o 0.00474341649025257 -t 0.47434164902525694 < input.txt > output.txt
